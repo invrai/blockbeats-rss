@@ -5,7 +5,7 @@
     <link>https://www.theblockbeats.info/</link>
     <description>律动BlockBeats是华语区最具影响力的Web3和AI媒体之一。我们通过AI、预测市场和链上资金动向，让新闻更早地出现在BlockBeats上。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:39:04 +0000</lastBuildDate>
     <generator>blockbeats-rss</generator>
     <item>
       <title>Papertrade累计名义成交额超5730亿美元，未平仓合约头寸达33亿美元</title>
@@ -133,6 +133,20 @@
       <pubDate>Thu, 08 Oct 2026 09:15:10 +0000</pubDate>
     </item>
     <item>
+      <title>Papertrade回应价格操纵与协议漏洞质疑：上线初期持仓上限宽松所致，已开始收紧参数</title>
+      <link>https://www.theblockbeats.info/flash/371243</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/371243</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 11 日，Papertrade 官方回应价格操纵利用以及协议存在明显漏洞质疑称：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;从来就不可能让小额订单与大额订单拥有相同的优先级。如果这样做前端会遭到垃圾交易拥堵，后果会比现有的排队机制糟糕得多。在这些约束条件下，已尽可能把公平启动设计得更具包容性。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;昨晚针对 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; BBO 上 BTC/ETH 的操纵尝试，并非花了六个月设计的机制存在疏漏。这些情况早已考虑到，只是因为上线初期为了应对拥堵，持仓上限设置得非常宽松才有可能发生。如果在排队启动需求高峰期就设置持仓上限，只会进一步加剧体验缓慢的问题，而排队机制本身因为开仓/平仓确认时间的不确定性，反而对操纵提供了天然保护。随着拥堵缓解，已经开始在链上和中继层面收紧持仓上限。在这样的系统中，操纵攻击始终是可能的——关键在于尝试是否经济上划算。官方目标是把参数设置到几乎永远不盈利，即使成功，尾部风险也极高、期望值为负。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前消息：Papertrade 疑遭两地址价格操纵利用，协议存在明显漏洞，相关地址通过在 Hyperliquid 上以约 2000 万美元为单笔规模进行交易，使 ETH 价格波动约 10 至 20 个基点，并在 Papertrade 上建立名义价值达数亿美元的多头仓位。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371243" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 11 日，Papertrade 官方回应价格操纵利用以及协议存在明显漏洞质疑称：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;从来就不可能让小额订单与大额订单拥有相同的优先级。如果这样做前端会遭到垃圾交易拥堵，后果会比现有的排队机制糟糕得多。在这些约束条件下，已尽可能把公平启动设计得更具包容性。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;昨晚针对 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; BBO 上 BTC/ETH 的操纵尝试，并非花了六个月设计的机制存在疏漏。这些情况早已考虑到，只是因为上线初期为了应对拥堵，持仓上限设置得非常宽松才有可能发生。如果在排队启动需求高峰期就设置持仓上限，只会进一步加剧体验缓慢的问题，而排队机制本身因为开仓/平仓确认时间的不确定性，反而对操纵提供了天然保护。随着拥堵缓解，已经开始在链上和中继层面收紧持仓上限。在这样的系统中，操纵攻击始终是可能的——关键在于尝试是否经济上划算。官方目标是把参数设置到几乎永远不盈利，即使成功，尾部风险也极高、期望值为负。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前消息：Papertrade 疑遭两地址价格操纵利用，协议存在明显漏洞，相关地址通过在 Hyperliquid 上以约 2000 万美元为单笔规模进行交易，使 ETH 价格波动约 10 至 20 个基点，并在 Papertrade 上建立名义价值达数亿美元的多头仓位。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371243" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Strive CEO效仿Michael Saylor发布比特币Tracker信息，暗示将公告再次增持比特币</title>
+      <link>https://www.theblockbeats.info/flash/371242</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/371242</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 11 日，比特币财库公司 Strive CEO Matt Cole 效仿 Michael Saylor 发布比特币 Tracker 相关信息。并表示「Think ₿igger」，暗示下周将公告再次增持比特币。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前 10 月 5 日，Matt Cole 披露，Strive 公司以均价 84,422 美元/枚的价格购入 2,000 枚 BTC，总耗资约 1.69 亿美元，公司比特币总持仓量随之升至 29,462 枚。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371242" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 11 日，比特币财库公司 Strive CEO Matt Cole 效仿 Michael Saylor 发布比特币 Tracker 相关信息。并表示「Think ₿igger」，暗示下周将公告再次增持比特币。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前 10 月 5 日，Matt Cole 披露，Strive 公司以均价 84,422 美元/枚的价格购入 2,000 枚 BTC，总耗资约 1.69 亿美元，公司比特币总持仓量随之升至 29,462 枚。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371242" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>特朗普宣布俄乌达成能源停火</title>
       <link>https://www.theblockbeats.info/flash/371237</link>
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/371237</guid>
@@ -145,6 +159,7 @@
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/371236</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 11 日，据官网数据，基于 HyperEVM 的合成永续协议 Papertrade 自北京时间昨日 22:00 上线至今已 24 小时，平台累计名义成交额超 6780 亿美元，TVL 现报 7780 万美元，未平仓合约头寸达 13 亿美元，较 12 小时前的 33 亿美元大幅减少约 60%；全部现有仓位对应的保证金金额为 1434 万美元，较 12 小时前的 2029 万美元大幅减少约 30%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Papertrade 是部署在 HyperEVM 上的全链上合成永续交易平台，价格读取 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 订单簿 BBO 中间价，用户直接与协议 LP 作为对手盘，而非走传统订单簿撮合。协议主打高杠杆、零滑点、无资金费率。原生代币 PAPER 初始供应为零，无预挖、团队或 VC 份额，唯一铸造来源是用户亏损或清算；上线初期代币不可自由转账，主要用于质押。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371236" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 11 日，据官网数据，基于 HyperEVM 的合成永续协议 Papertrade 自北京时间昨日 22:00 上线至今已 24 小时，平台累计名义成交额超 6780 亿美元，TVL 现报 7780 万美元，未平仓合约头寸达 13 亿美元，较 12 小时前的 33 亿美元大幅减少约 60%；全部现有仓位对应的保证金金额为 1434 万美元，较 12 小时前的 2029 万美元大幅减少约 30%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Papertrade 是部署在 HyperEVM 上的全链上合成永续交易平台，价格读取 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 订单簿 BBO 中间价，用户直接与协议 LP 作为对手盘，而非走传统订单簿撮合。协议主打高杠杆、零滑点、无资金费率。原生代币 PAPER 初始供应为零，无预挖、团队或 VC 份额，唯一铸造来源是用户亏损或清算；上线初期代币不可自由转账，主要用于质押。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371236" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sun, 11 Oct 2026 14:05:29 +0000</pubDate>
     </item>
     <item>
       <title>Ansem：抓住正确轮动与及时止盈同等重要，实现复利才能留下利润</title>
@@ -152,6 +167,7 @@
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/371231</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 11 日，加密交易员 Ansem 发文谈论其交易加密货币多年总结的最大教训之一。其表示，在交易里会抓住正确轮动只是第一步，真正决定你能不能留下利润的，是能不能及时止盈并复利。2017 年其通过交易山寨币赚了不少钱，但很多都是轮回交易，回吐利润并回到原点。2020 至 2021 年其进步明显，更能早期识别叙事，在 SOL、LUNA、AVAX 之间轮动，并且把不同交易的利润复利叠加。早期发现机会与知道何时止盈，是同等重要的两项技能。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371231" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 11 日，加密交易员 Ansem 发文谈论其交易加密货币多年总结的最大教训之一。其表示，在交易里会抓住正确轮动只是第一步，真正决定你能不能留下利润的，是能不能及时止盈并复利。2017 年其通过交易山寨币赚了不少钱，但很多都是轮回交易，回吐利润并回到原点。2020 至 2021 年其进步明显，更能早期识别叙事，在 SOL、LUNA、AVAX 之间轮动，并且把不同交易的利润复利叠加。早期发现机会与知道何时止盈，是同等重要的两项技能。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371231" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sun, 11 Oct 2026 12:32:13 +0000</pubDate>
     </item>
     <item>
       <title>Michael Saylor再次发布比特币Tracker信息，或暗示增持BTC</title>
@@ -200,22 +216,6 @@
       <description>&lt;p&gt;BlockBeats 消息，10 月 10 日，据官网信息，基于 HyperEVM 的合成永续协议 Papertrade 已正式上线。其预存款已关闭，11,465 个地址存入 1.38 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Papertrade 是部署在 HyperEVM 上的全链上合成永续交易平台，价格读取 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 订单簿 BBO 中间价，用户直接与协议 LP 作为对手盘，而非走传统订单簿撮合。协议主打高杠杆、零滑点、无资金费率。原生代币 PAPER 初始供应为零，无预挖、团队或 VC 份额，唯一铸造来源是用户亏损或清算；上线初期代币不可自由转账，主要用于质押。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371174" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 10 日，据官网信息，基于 HyperEVM 的合成永续协议 Papertrade 已正式上线。其预存款已关闭，11,465 个地址存入 1.38 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Papertrade 是部署在 HyperEVM 上的全链上合成永续交易平台，价格读取 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 订单簿 BBO 中间价，用户直接与协议 LP 作为对手盘，而非走传统订单簿撮合。协议主打高杠杆、零滑点、无资金费率。原生代币 PAPER 初始供应为零，无预挖、团队或 VC 份额，唯一铸造来源是用户亏损或清算；上线初期代币不可自由转账，主要用于质押。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371174" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <pubDate>Sat, 10 Oct 2026 14:02:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>「1011暴跌」一周年回顾：加密市场风险仍未消失，投资者需合理控制杠杆</title>
-      <link>https://www.theblockbeats.info/flash/371166</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/371166</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 10 日，「1011 暴跌」已过去一年，当时比特币在创下约 12.6 万美元历史高点后不久，从约 12.2 万美元快速跌至 10.5 万美元，引发加密市场约 190 亿美元史诗级清算。值此周年之际，机构分析师再次回顾总结「1011 暴跌」对加密市场产生的影响、教训。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Risk Dimensions 负责人 Mark Connors 表示，当时市场顶部形成速度极快，未平仓合约接近历史高位，大量交易者押注比特币延续四年周期上涨行情，最终市场反转导致损失。因此，「1011 暴跌」主要由衍生品市场推动，而非链上需求变化，说明杠杆仓位仍能在短期内主导比特币价格走势。他表示，&lt;strong&gt;永续合约等杠杆交易目前仍大行其道，市场仍存在再次出现类似暴跌的基础&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hyperion Decimus 联合创始人 Chris Sullivan&lt;strong&gt; 建议交易者降低杠杆，并关注未平仓合约、资金费率和市场情绪等指标，以识别市场过度单边押注风险&lt;/strong&gt;。Connors 同时表示，投资者对市场结构的理解有所提升，但比特币「四年周期」作为价格预测指标的有效性正在下降，宏观经济和政治因素可能发挥更大作用。（CoinDesk）&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371166" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 10 日，「1011 暴跌」已过去一年，当时比特币在创下约 12.6 万美元历史高点后不久，从约 12.2 万美元快速跌至 10.5 万美元，引发加密市场约 190 亿美元史诗级清算。值此周年之际，机构分析师再次回顾总结「1011 暴跌」对加密市场产生的影响、教训。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Risk Dimensions 负责人 Mark Connors 表示，当时市场顶部形成速度极快，未平仓合约接近历史高位，大量交易者押注比特币延续四年周期上涨行情，最终市场反转导致损失。因此，「1011 暴跌」主要由衍生品市场推动，而非链上需求变化，说明杠杆仓位仍能在短期内主导比特币价格走势。他表示，&lt;strong&gt;永续合约等杠杆交易目前仍大行其道，市场仍存在再次出现类似暴跌的基础&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hyperion Decimus 联合创始人 Chris Sullivan&lt;strong&gt; 建议交易者降低杠杆，并关注未平仓合约、资金费率和市场情绪等指标，以识别市场过度单边押注风险&lt;/strong&gt;。Connors 同时表示，投资者对市场结构的理解有所提升，但比特币「四年周期」作为价格预测指标的有效性正在下降，宏观经济和政治因素可能发挥更大作用。（CoinDesk）&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371166" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Sat, 10 Oct 2026 11:40:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Papertrade预计今晚22时上线，预存款已超9000万美元，逾7000地址参与</title>
-      <link>https://www.theblockbeats.info/flash/371151</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/371151</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 10 日，据官方公告，基于 HyperEVM 的合成永续协议 Papertrade 预计将于今晚 22 时正式上线开放交易，存款将在 UTC 时间 13:45 即上线前十五分钟暂停，以确保交易在上线的过程中获得最高优先级。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;另据官网信息，该协议预存款已超 9000 万美元，现有 7,280 个地址参与。官方 9 日开启预存款，同时表示交易开启后账户创建与存款会被大幅降权，提前存入有助于避开开盘拥堵，但预存款期内早存没有额外优势。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Papertrade 是部署在 HyperEVM 上的全链上合成永续交易平台，价格读取 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 订单簿 BBO 中间价，用户直接与协议 LP 作为对手盘，而非走传统订单簿撮合。协议主打高杠杆、零滑点、无资金费率。原生代币 PAPER 初始供应为零，无预挖、团队或 VC 份额，唯一铸造来源是用户亏损或清算；上线初期代币不可自由转账，主要用于质押。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371151" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 10 日，据官方公告，基于 HyperEVM 的合成永续协议 Papertrade 预计将于今晚 22 时正式上线开放交易，存款将在 UTC 时间 13:45 即上线前十五分钟暂停，以确保交易在上线的过程中获得最高优先级。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;另据官网信息，该协议预存款已超 9000 万美元，现有 7,280 个地址参与。官方 9 日开启预存款，同时表示交易开启后账户创建与存款会被大幅降权，提前存入有助于避开开盘拥堵，但预存款期内早存没有额外优势。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Papertrade 是部署在 HyperEVM 上的全链上合成永续交易平台，价格读取 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 订单簿 BBO 中间价，用户直接与协议 LP 作为对手盘，而非走传统订单簿撮合。协议主打高杠杆、零滑点、无资金费率。原生代币 PAPER 初始供应为零，无预挖、团队或 VC 份额，唯一铸造来源是用户亏损或清算；上线初期代币不可自由转账，主要用于质押。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/371151" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Sat, 10 Oct 2026 09:24:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
