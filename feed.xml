@@ -5,7 +5,7 @@
     <link>https://www.theblockbeats.info/</link>
     <description>律动BlockBeats是华语区最具影响力的Web3和AI媒体之一。我们通过AI、预测市场和链上资金动向，让新闻更早地出现在BlockBeats上。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:06:54 +0000</lastBuildDate>
     <generator>blockbeats-rss</generator>
     <item>
       <title>AI巨额投入将迎来大考，Meta、特斯拉、IBM今夜密集放榜</title>
@@ -21,6 +21,7 @@
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/372973</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 21 日，据 POLITICO 报道，美国国会民主党人正在为可能展开的新一轮监督调查制定计划，埃隆·马斯克及其旗下企业成为重点关注对象。若民主党在 11 月中期选举后重新控制众议院，&lt;strong&gt;SpaceX 的政府合同、特斯拉获得的联邦补贴，以及马斯克此前领导政府效率部（DOGE）期间的行为，都可能受到国会调查。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;报道称，多名民主党资深议员和国会幕僚正在讨论不同委员会能够采取的调查行动，涉及政府资金使用、潜在利益冲突、敏感数据访问权限，以及 SpaceX 向乌克兰提供军事卫星通信服务的问题。众议院监督委员会民主党首席议员 Robert Garcia 的发言人 Sara Guerrero 表示，民主党对马斯克在 DOGE 期间的活动存在大量疑问，并计划对此展开调查。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;马斯克的发言人没有回应 POLITICO 的多次置评请求。目前，相关调查仍主要处于计划和讨论阶段，能否正式推进取决于中期选举后的国会权力格局。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/372973" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 21 日，据 POLITICO 报道，美国国会民主党人正在为可能展开的新一轮监督调查制定计划，埃隆·马斯克及其旗下企业成为重点关注对象。若民主党在 11 月中期选举后重新控制众议院，&lt;strong&gt;SpaceX 的政府合同、特斯拉获得的联邦补贴，以及马斯克此前领导政府效率部（DOGE）期间的行为，都可能受到国会调查。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;报道称，多名民主党资深议员和国会幕僚正在讨论不同委员会能够采取的调查行动，涉及政府资金使用、潜在利益冲突、敏感数据访问权限，以及 SpaceX 向乌克兰提供军事卫星通信服务的问题。众议院监督委员会民主党首席议员 Robert Garcia 的发言人 Sara Guerrero 表示，民主党对马斯克在 DOGE 期间的活动存在大量疑问，并计划对此展开调查。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;马斯克的发言人没有回应 POLITICO 的多次置评请求。目前，相关调查仍主要处于计划和讨论阶段，能否正式推进取决于中期选举后的国会权力格局。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/372973" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 21 Oct 2026 09:51:08 +0000</pubDate>
     </item>
     <item>
       <title>特朗普支持率跌到31%，共和党先把他从竞选广告里删了</title>
@@ -48,6 +49,7 @@
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/373052</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 22 日，Node.js 项目于 10 月 21 日发布安全更新，涉及 26.x、24.x 和 22.x 版本分支，修复版本分别为 26.12.1、24.22.1 及 22.23.4。本次公告共列出 10 项漏洞，包括 4 项高危、3 项中危和 3 项低危，各版本分支的受影响范围有所不同。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;其中，高危漏洞 CVE-2026-111497 涉及 Brotli 解码器越界写入，可导致远程代码执行，影响上述三个版本分支。其他高危问题包括 DNS 解析中的空字符处理，以及 TLS 证书主机名验证绕过。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;本次更新还修复了持久连接响应处理、随机数缓存重复及权限模型等问题，并更新 c-ares、OpenSSL、Undici 等依赖组件。官方提醒，已终止支持的版本同样可能受安全漏洞影响，用户应使用受支持的最新版本。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前报道，PHP 修复了两项可导致未经身份验证的远程代码执行的严重漏洞，修复版本为 8.5.12、8.4.27、8.3.36 和 8.2.35，官方敦促用户立即升级。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/373052" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 22 日，Node.js 项目于 10 月 21 日发布安全更新，涉及 26.x、24.x 和 22.x 版本分支，修复版本分别为 26.12.1、24.22.1 及 22.23.4。本次公告共列出 10 项漏洞，包括 4 项高危、3 项中危和 3 项低危，各版本分支的受影响范围有所不同。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;其中，高危漏洞 CVE-2026-111497 涉及 Brotli 解码器越界写入，可导致远程代码执行，影响上述三个版本分支。其他高危问题包括 DNS 解析中的空字符处理，以及 TLS 证书主机名验证绕过。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;本次更新还修复了持久连接响应处理、随机数缓存重复及权限模型等问题，并更新 c-ares、OpenSSL、Undici 等依赖组件。官方提醒，已终止支持的版本同样可能受安全漏洞影响，用户应使用受支持的最新版本。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前报道，PHP 修复了两项可导致未经身份验证的远程代码执行的严重漏洞，修复版本为 8.5.12、8.4.27、8.3.36 和 8.2.35，官方敦促用户立即升级。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/373052" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 21 Oct 2026 16:22:56 +0000</pubDate>
     </item>
     <item>
       <title>「互联网地基」PHP爆出高危漏洞，全球海量网站面临被完全接管危机</title>
@@ -120,11 +122,26 @@
       <pubDate>Tue, 20 Oct 2026 08:16:30 +0000</pubDate>
     </item>
     <item>
+      <title>特朗普称中期选举前不会进攻伊朗，但美伊谈判仍无实际突破</title>
+      <link>https://www.theblockbeats.info/flash/373059</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/373059</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 22 日，美国总统特朗普称中期选举前不会轰炸伊朗，但美方正撤离驻沙特部分非紧急人员、缩减中东部分基地兵力，并增派航母与两栖力量；以色列军方据报本周曾出动数十架战机逼近伊朗边境后折返，打击目标清单亦在更新。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;美国国务院已下令仅限沙特境内的非紧急政府雇员及家属撤离，称与伊朗支持的胡塞武装袭击沙特民用目标有关。另据报道，美军近几日悄然缩减驻约旦、卡塔尔、科威特等地兵力；《华尔街日报》称美方正向中东调派另一艘航母，第三个航母打击群正从太平洋方向赶来，并调派搭载海军陆战队的两栖攻击舰。若新增力量到位且现有舰艇不轮换撤离，该地区美军舰艇总数预计将超过 24 艘（目前约 20 艘）。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;另一方面，以色列总理内塔尼亚胡据报持续主张恢复对伊大规模打击，甚至美方怀疑以色列正故意引诱伊朗开火。以色列第 12 频道援引美方消息称，本周早些时候数十架以军战斗机和加油机飞越叙利亚、伊拉克上空逼近伊朗边境，飞行路线与对伊攻击路线高度相似，在进入伊朗领空前掉头返回，以方称属演习与威慑。与此同时，巴基斯坦、卡塔尔等加紧斡旋，但美方要求谈核计划、伊方希望先谈重开霍尔木兹海峡，谈判仍无突破。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/373059" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 22 日，美国总统特朗普称中期选举前不会轰炸伊朗，但美方正撤离驻沙特部分非紧急人员、缩减中东部分基地兵力，并增派航母与两栖力量；以色列军方据报本周曾出动数十架战机逼近伊朗边境后折返，打击目标清单亦在更新。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;美国国务院已下令仅限沙特境内的非紧急政府雇员及家属撤离，称与伊朗支持的胡塞武装袭击沙特民用目标有关。另据报道，美军近几日悄然缩减驻约旦、卡塔尔、科威特等地兵力；《华尔街日报》称美方正向中东调派另一艘航母，第三个航母打击群正从太平洋方向赶来，并调派搭载海军陆战队的两栖攻击舰。若新增力量到位且现有舰艇不轮换撤离，该地区美军舰艇总数预计将超过 24 艘（目前约 20 艘）。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;另一方面，以色列总理内塔尼亚胡据报持续主张恢复对伊大规模打击，甚至美方怀疑以色列正故意引诱伊朗开火。以色列第 12 频道援引美方消息称，本周早些时候数十架以军战斗机和加油机飞越叙利亚、伊拉克上空逼近伊朗边境，飞行路线与对伊攻击路线高度相似，在进入伊朗领空前掉头返回，以方称属演习与威慑。与此同时，巴基斯坦、卡塔尔等加紧斡旋，但美方要求谈核计划、伊方希望先谈重开霍尔木兹海峡，谈判仍无突破。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/373059" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Lighter计划成为首个申请美国合规牌照的Perp DEX项目，LIT24小时涨15%</title>
+      <link>https://www.theblockbeats.info/flash/373058</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/373058</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 22 日，Lighter 创始人兼 CEO Vladimir Novakovski 在 Q3 投资者会议上发言表示：「我们目前正在寻求的是获得 DCM（指定合约市场）和 DCO（衍生品清算组织）的牌照。我们花了大量时间与 CFTC（美国商品期货交易委员会）的工作人员沟通，梳理了那里所有的核心原则。其中很多原则，现有的框架已经能够清晰地对应到 Lighter 是如何在链上实现这些的。其他一些原则，有全新的实现方式，对监管机构来说是前所未有的，但他们现在花了大量时间与我们交流，以了解其运作原理。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;接下来的计划是，在下个月正式提交这些牌照申请。之后，监管机构有最长 280 天的时间进行审查。因为我们已经完成了所有这些前期工作，我们认为接下来的流程会比较顺利。我们非常期待在美国获得这些牌照并向美国市场开放——不是面向散户，而是面向机构端。」&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前，LIT 曾因「Robinhood 使用 Bitstamp 在美推出永续合约」而出现一波下跌，当时 Robinhood 首席执行官 Vlad Tenev 接受采访时表示，未选择 Lighter 是取决于监管结构。本次 Novakovski 在投资者会议上的发言，让社区再次出现「合规后能更加紧密与 Robinhood 合作」的推断。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;据 HTX 行情数据显示，受一系列发言影响，LIT 24 小时一度上涨 15%，现报价格 3.76 美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/373058" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 22 日，Lighter 创始人兼 CEO Vladimir Novakovski 在 Q3 投资者会议上发言表示：「我们目前正在寻求的是获得 DCM（指定合约市场）和 DCO（衍生品清算组织）的牌照。我们花了大量时间与 CFTC（美国商品期货交易委员会）的工作人员沟通，梳理了那里所有的核心原则。其中很多原则，现有的框架已经能够清晰地对应到 Lighter 是如何在链上实现这些的。其他一些原则，有全新的实现方式，对监管机构来说是前所未有的，但他们现在花了大量时间与我们交流，以了解其运作原理。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;接下来的计划是，在下个月正式提交这些牌照申请。之后，监管机构有最长 280 天的时间进行审查。因为我们已经完成了所有这些前期工作，我们认为接下来的流程会比较顺利。我们非常期待在美国获得这些牌照并向美国市场开放——不是面向散户，而是面向机构端。」&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前，LIT 曾因「Robinhood 使用 Bitstamp 在美推出永续合约」而出现一波下跌，当时 Robinhood 首席执行官 Vlad Tenev 接受采访时表示，未选择 Lighter 是取决于监管结构。本次 Novakovski 在投资者会议上的发言，让社区再次出现「合规后能更加紧密与 Robinhood 合作」的推断。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;据 HTX 行情数据显示，受一系列发言影响，LIT 24 小时一度上涨 15%，现报价格 3.76 美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/373058" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>Bonk Guy：本轮是「隐私周期」，隐私协议MASK被低估</title>
       <link>https://www.theblockbeats.info/flash/373050</link>
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/373050</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 21 日，知名交易员 Bonk Guy 发文表示，本轮市场正呈现「隐私周期」特征。他称，自昨日以来，比特币上涨约 3%，ZEC 上涨 16%，市值增加超 30 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;他称，MASK 当前市值约 2600 万美元，协议交易量及手续费持续刷新历史新高。其援引 DefiLlama 数据称，MASK 按收入计算位居隐私协议首位，收入超过其后 10 个隐私协议的总和。相比之下，ZEC 过去 24 小时新增市值约为 MASK 整体市值的 115 倍。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Bonk Guy 还表示，随着其在 Solana 上的部署即将在几天内上线，并预计这将进一步推动使用量、交易量及手续费增长。他继续将 MASK 称为加密市场中最被低估的隐私协议。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/373050" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 21 日，知名交易员 Bonk Guy 发文表示，本轮市场正呈现「隐私周期」特征。他称，自昨日以来，比特币上涨约 3%，ZEC 上涨 16%，市值增加超 30 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;他称，MASK 当前市值约 2600 万美元，协议交易量及手续费持续刷新历史新高。其援引 DefiLlama 数据称，MASK 按收入计算位居隐私协议首位，收入超过其后 10 个隐私协议的总和。相比之下，ZEC 过去 24 小时新增市值约为 MASK 整体市值的 115 倍。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Bonk Guy 还表示，随着其在 Solana 上的部署即将在几天内上线，并预计这将进一步推动使用量、交易量及手续费增长。他继续将 MASK 称为加密市场中最被低估的隐私协议。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/373050" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 21 Oct 2026 15:55:50 +0000</pubDate>
     </item>
     <item>
       <title>美财长贝森特：《GENIUS法案》是美国金融分水岭，OCC最终规则为创新与竞争提供清晰基础</title>
@@ -189,14 +206,6 @@
       <description>&lt;p&gt;BlockBeats 消息，10 月 21 日，美国货币监理署（OCC）公布落实《GENIUS 法案》的最终规则，成为首个敲定该法案稳定币实施规则的监管机构。规则将于 2027 年 1 月 18 日生效，为银行及非银行企业开展支付稳定币业务提供准入路径，并确立境外稳定币发行人及资产托管的相关标准。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;在稳定币奖励方面，最终规则删除了征求意见稿中针对发行人与第三方某些商业安排可能构成违法的推定条款，但发行人不得直接向稳定币持有人支付利息的法定禁令仍然适用。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;监管官员表示，将逐案审查发行人与第三方的关系，确保相关安排不违反法定禁令。OCC 仍有权针对规避法案的行为执法，若发现明确的规避行为，将采取相应行动。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/372996" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 21 日，美国货币监理署（OCC）公布落实《GENIUS 法案》的最终规则，成为首个敲定该法案稳定币实施规则的监管机构。规则将于 2027 年 1 月 18 日生效，为银行及非银行企业开展支付稳定币业务提供准入路径，并确立境外稳定币发行人及资产托管的相关标准。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;在稳定币奖励方面，最终规则删除了征求意见稿中针对发行人与第三方某些商业安排可能构成违法的推定条款，但发行人不得直接向稳定币持有人支付利息的法定禁令仍然适用。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;监管官员表示，将逐案审查发行人与第三方的关系，确保相关安排不违反法定禁令。OCC 仍有权针对规避法案的行为执法，若发现明确的规避行为，将采取相应行动。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/372996" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <pubDate>Wed, 21 Oct 2026 11:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Predict.fun代币或于今晚8时上线Aster盘前市场，最高5倍杠杆</title>
-      <link>https://www.theblockbeats.info/flash/372967</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/372967</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 21 日，据 Aster 页面信息，Predict.fun 代币 PREDICT 已可在交易列表查询，最高支持 5 倍杠杆。根据页面提示，相关交易或将于今晚 8 时正式上线。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/372967" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 21 日，据 Aster 页面信息，Predict.fun 代币 PREDICT 已可在交易列表查询，最高支持 5 倍杠杆。根据页面提示，相关交易或将于今晚 8 时正式上线。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/372967" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 21 Oct 2026 09:28:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
